@@ -5,6 +5,8 @@ This repository is for the submission and tracking of bug reports and features f
 How submit a bug report
 ---
 
+**BEFORE SUBMITTING A BUG REPORT:** Please try all of the steps listed at https://oxygenbuilder.com/documentation/troubleshooting/troubleshooting-guide/. These steps solve many common issues. If the steps don't solve the problem, proceed.
+
 1. Click "Issues"
 2. Click "New Issue"
 3. Click "Bug Report"
