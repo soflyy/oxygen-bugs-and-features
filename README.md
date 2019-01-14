@@ -20,6 +20,8 @@ The bug report will be submitted for review. To check the status of your bug rep
 How to submit a feature request
 ---
 
+**BEFORE SUBMITTING A FEATURE REQUEST:** Please check the Feature Requests project at https://github.com/soflyy/oxygen-bugs-and-features/projects/2 for existing feature requests that match yours. If one already exists, please vote for it rather than submitting a new request for the same feature.
+
 1. Click "Issues"
 2. Click "New Issue"
 3. Click "Feature Request"
