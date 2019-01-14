@@ -8,7 +8,7 @@ assignees: Spellhammer
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is.
+*A clear and concise description of what the bug is.*
 
 **Have you tried all the steps at https://oxygenbuilder.com/documentation/troubleshooting/troubleshooting-guide/?**
 *Yes/No*
