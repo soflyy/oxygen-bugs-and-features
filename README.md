@@ -2,7 +2,7 @@
 
 This repository is for the submission and tracking of bug reports and feature requests for the Oxygen plugin.
 
-How submit a bug report
+How to submit a bug report
 ---
 
 **BEFORE SUBMITTING A BUG REPORT:** Please try all of the steps listed at https://oxygenbuilder.com/documentation/troubleshooting/troubleshooting-guide/. These steps solve many common issues. If the steps don't solve the problem, proceed.
