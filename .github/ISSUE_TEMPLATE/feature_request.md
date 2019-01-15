@@ -3,7 +3,7 @@ name: Feature request
 about: Suggest a feature for Oxygen
 title: ''
 labels: enhancement
-assignees: Spellhammer
+assignees: ''
 
 ---
 

@@ -3,7 +3,7 @@ name: Bug Report
 about: Oxygen Bug Report
 title: ''
 labels: bug
-assignees: Spellhammer
+assignees: ''
 
 ---
 
