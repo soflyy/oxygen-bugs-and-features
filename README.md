@@ -1,3 +1,5 @@
+> IMPORTANT: If you refuse to follow the template provided for bug reports, we'll probably close your report and ask you to submit a support request via https://oxygenbuilder.com/support instead.
+
 # Oxygen Bugs and Features
 
 This repository is for the submission and tracking of bug reports and feature requests for the Oxygen plugin.
@@ -12,7 +14,7 @@ How to submit a bug report
 3. Click "Bug Report"
 4. Add a title that briefly describes the bug
 5. Fill out the template with the appropriate information.
- **(NOTE: If you can't fill out most fields on the template, don't submit a bug report. Instead, submit a support request by e-mailing support@oxygenbuilder.com and we'll help troubleshoot the problem.)**
+ **(NOTE: If you can't fill out most fields on the template, don't submit a bug report. Instead, submit a support request via https://oxygenbuilder.com/support and we'll help troubleshoot the problem.)**
 6. Click "Submit new issue"
 
 The bug report will be submitted for review. To check the status of your bug report, please check the Bug Reports project at https://github.com/soflyy/oxygen-bugs-and-features/projects/1.
