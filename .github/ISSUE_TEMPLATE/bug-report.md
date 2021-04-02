@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+## Please only open a bug report if the issue can be reproduced on a clean site. If it can't be reproduced, please open a support ticket so that we can take a look at your site.
+
 **Describe the bug**
 *A clear and concise description of what the bug is.*
 
