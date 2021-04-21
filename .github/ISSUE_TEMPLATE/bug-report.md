@@ -7,43 +7,19 @@ assignees: ''
 
 ---
 
-## Please only open a bug report if the issue can be reproduced on a clean site. If it can't be reproduced, please open a support ticket so that we can take a look at your site.
+**Any bug report that doesn't include a Sandbox link or replication steps will be closed. If you can't provide these pieces of information, we're happy to help you via our official support channel instead: https://oxygenbuilder.com/support**
 
 **Describe the bug**
 *A clear and concise description of what the bug is.*
 
-**Have you tried all the steps at https://oxygenbuilder.com/documentation/troubleshooting/troubleshooting-guide/?**
-*Yes/No*
+**A link to a demo site where the bug has been reproduced https://oxygenbuilder.com/try? (REQUIRED)**
+*Provide the link to a Sandbox install where the issue is present. If the issue only exists on a specific post or template, provide a direct link to that post or template.*
 
-**Are you able to replicate the issue on a Sandbox install at https://oxygenbuilder.com/try?**
-*If yes, provide the link to a Sandbox install where the issue is present. If the issue only exists on a specific post or template, provide a direct link to that post or template.*
-
-**To Reproduce**
+**IF YOU CAN'T PROVIDE A SANDBOX REPRODUCTION: Steps required to reproduce the bug:**
 Steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
 
-**Expected behavior**
-*A clear and concise description of what you expected to happen.*
-
-**What actually happens**
-*A clear and concise description of what happens instead of the expected behavior.*
-
-**Screenshots**
-*If applicable, add screenshots to help explain your problem.*
-
-**Desktop (please complete the following information):**
-- OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Oxygen Version [e.g. 2.2 Alpha]
-
-**Smartphone (please complete the following information):**
-- Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Oxygen Version [e.g. 2.2 Alpha]
-
-**Additional context**
-*Add any other context about the problem here.*
+**If you can't fill out the above information, you should not be filing a bug report. Instead, contact us via https://oxygenbuilder.com/support with the details you have and we'll investigate your issue further.**
