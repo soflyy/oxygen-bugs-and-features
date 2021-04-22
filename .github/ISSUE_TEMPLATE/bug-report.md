@@ -7,12 +7,12 @@ assignees: ''
 
 ---
 
-**Any bug report that doesn't include a Sandbox link or replication steps will be closed. If you can't provide these pieces of information, we're happy to help you via our official support channel instead: https://oxygenbuilder.com/support**
+**Any bug report that doesn't include a Sandbox link or replication steps will be closed. If you can't provide these pieces of information, we're happy to help you via our official support channel instead: https://oxygenbuilder.com/support. You need to select "Something's broken and I need help" from the dropdown box on the left.**
 
 **Describe the bug**
 *A clear and concise description of what the bug is.*
 
-**A link to a demo site where the bug has been reproduced https://oxygenbuilder.com/try? (REQUIRED)**
+**A link to a Sandbox site where the bug has been reproduced https://oxygenbuilder.com/try? (REQUIRED)**
 *Provide the link to a Sandbox install where the issue is present. If the issue only exists on a specific post or template, provide a direct link to that post or template.*
 
 **IF YOU CAN'T PROVIDE A SANDBOX REPRODUCTION: Steps required to reproduce the bug:**
