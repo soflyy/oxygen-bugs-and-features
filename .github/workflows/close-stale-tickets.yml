@@ -22,10 +22,10 @@ jobs:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
         stale-issue-message: 'Closed as Stale due to no updates in the last 60 days'
         stale-issue-label: 'Stale'
-        any-of-labels: 'Needs More Info'
+        any-of-labels: 'Need more info'
         days-before-stale: 60
         remove-stale-when-updated: true
-        labels-to-remove-when-stale: 'Needs More Info'
+        labels-to-remove-when-stale: 'Need more info'
         labels-to-remove-when-unstale: 'Stale'
-        labels-to-add-when-unstale: 'Needs Review'
+        labels-to-add-when-unstale: 'Review'
         
