@@ -2,7 +2,7 @@
 
 # Oxygen Bugs and Features
 
-This repository is for the submission and tracking of bug reports and feature requests for the Oxygen plugin.
+This repository is for the submission and tracking of bug reports and feature requests for Oxygen Classic.
 
 How to submit a bug report
 ---
